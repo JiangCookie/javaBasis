@@ -1,8 +1,7 @@
 package Jichu;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Random;
+import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @author JYH
@@ -24,6 +23,15 @@ public class HashMapTotalRandomDemo {
 
         for (Map.Entry<Integer,Integer> kv: countMap.entrySet()) {
             System.out.println(kv.getKey() + " " + kv.getValue());
+
+        }
+
+        Set<String> set = new HashSet<>();
+        set.add("hello");
+        set.add("world");
+        set.addAll(Arrays.asList(new String[]{"hello","老马"}));
+        for(String arr:set){
+            System.out.println(arr);
         }
     }
 }
