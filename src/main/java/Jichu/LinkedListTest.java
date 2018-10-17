@@ -20,7 +20,7 @@ public class LinkedListTest {
             System.out.println(stack.pop());
         }
 
-        List<String> list = new ArrayList<>();
+        LinkedList<String> list = new LinkedList<>();
         list.add("dd");
     }
 }
