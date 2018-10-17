@@ -37,7 +37,7 @@ public class BST<E extends Comparable<E>> {
 
 
     /**
-     * v向二分搜索树种添加新的元素e
+     * 向二分搜索树种添加新的元素e
      */
     public void add(E e){
         root = add(root , e);
