@@ -54,14 +54,14 @@
           <entry key="ChannelHandler" value="2" />
           <entry key="JIGSAW/rt" value="1" />
           <entry key="class" value="16" />
-          <entry key="java" value="306" />
+          <entry key="java" value="307" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="16" />
-          <entry key="JAVA" value="306" />
+          <entry key="JAVA" value="307" />
           <entry key="UML" value="3" />
           <entry key="XML" value="3" />
         </counts>
@@ -85,11 +85,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lambda/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
               <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lambda/gg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -644,15 +653,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
-              <item name="Mediator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBasis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBasis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Lambda" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -668,7 +668,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/File/IdeaProjects/javaBasis/src/main/java/Socket/URLDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540103042800" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540103737662" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -826,7 +826,7 @@
       <workItem from="1539862829323" duration="1671000" />
       <workItem from="1539909797006" duration="4326000" />
       <workItem from="1539998248535" duration="15630000" />
-      <workItem from="1540082711638" duration="7783000" />
+      <workItem from="1540082711638" duration="8442000" />
     </task>
     <task id="LOCAL-00001" summary="二叉搜索树实现">
       <created>1539779240573</created>
@@ -890,7 +890,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="306608000" />
+    <option name="totallyTimeSpent" value="307267000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -913,7 +913,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.18078668" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3266564" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5998487" visible="true" weight="0.2881356" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.54236007" visible="true" weight="0.2881356" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -921,7 +921,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4969743" weight="0.40061632" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50378215" side_tool="true" weight="0.10785824" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.45763993" side_tool="true" visible="true" weight="0.2881356" />
       <window_info anchor="bottom" id="调试" order="11" weight="0.32819724" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49924356" weight="0.31957185" />
       <window_info anchor="bottom" id="缩略图" order="13" weight="0.32923076" />
@@ -1003,13 +1003,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Generics/DynamicArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Jichu/ReHashCode/HashMapTotalRandomDemo.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1358,6 +1351,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lambda/gg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
