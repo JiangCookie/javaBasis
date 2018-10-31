@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe1425fb-1926-4f3b-a167-11a03d395d63" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exception/ExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Thread/CountDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Arithmetic/Set/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/ConcreteFlyweight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/Flyweight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/FlyweightFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/UnsharedConcreteFlyweight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/Country.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/Iraq.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/USA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/UnitedNations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/UnitedNationsSecurityCouncil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Jichu/Interface/CompUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Jichu/Interface/IADDImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Jichu/Interface/IAdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Jichu/Interface/MyComparable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Jichu/Interface/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Jichu/Interface/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lambda/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lambda/gg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Set/Main$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Set/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Flyweight/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Flyweight/ConcreteFlyweight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Flyweight/Flyweight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Flyweight/FlyweightFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Flyweight/UnsharedConcreteFlyweight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Mediator/Country.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Mediator/Iraq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Mediator/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Mediator/USA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Mediator/UnitedNations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Mediator/UnitedNationsSecurityCouncil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Jichu/Interface/CompUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Jichu/Interface/IADDImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Jichu/Interface/IAdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Jichu/Interface/MyComparable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Jichu/Interface/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Jichu/Interface/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lambda/Test$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lambda/Test.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,11 +16,12 @@
     <session id="-506649374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="37" />
+          <entry key="project.closed" value="39" />
           <entry key="project.open.time.102" value="1" />
           <entry key="project.open.time.113" value="2" />
           <entry key="project.open.time.115" value="1" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.3" value="4" />
           <entry key="project.open.time.4" value="1" />
@@ -86,7 +44,8 @@
           <entry key="project.open.time.78" value="3" />
           <entry key="project.open.time.79" value="1" />
           <entry key="project.open.time.87" value="2" />
-          <entry key="project.opened" value="38" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -110,48 +69,21 @@
         <counts>
           <entry key="dummy" value="74" />
           <entry key="java" value="40476" />
-          <entry key="txt" value="102" />
+          <entry key="txt" value="108" />
           <entry key="xml" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="40476" />
-          <entry key="PLAIN_TEXT" value="176" />
+          <entry key="PLAIN_TEXT" value="182" />
           <entry key="XML" value="67" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Thread/CountDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/Java并发课程资料/课程资料/SourceCode/Concurrency/src/main/java/com/mmall/concurrency/example/count/CountExample1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -257,9 +189,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="6" />
-    <option name="y" value="33" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="518" />
+    <option name="y" value="57" />
     <option name="width" value="1282" />
     <option name="height" value="788" />
   </component>
@@ -660,24 +592,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="javaBasis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBasis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBasis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBasis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -687,13 +614,13 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/File/IdeaProjects/javaBasis/src/main/java/Socket/URLDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540556662750" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540556686685" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="copyright.filetypes.JAVA" />
@@ -852,6 +779,8 @@
       <workItem from="1540436707722" duration="1399000" />
       <workItem from="1540448577361" duration="1187000" />
       <workItem from="1540532879328" duration="6956000" />
+      <workItem from="1540556622267" duration="156000" />
+      <workItem from="1540802388437" duration="831000" />
     </task>
     <task id="LOCAL-00001" summary="二叉搜索树实现">
       <created>1539779240573</created>
@@ -895,7 +824,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540103880146</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="线程池">
+      <created>1540556724303</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540556724303</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -922,7 +858,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="336298000" />
+    <option name="totallyTimeSpent" value="337285000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -934,7 +870,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="430" width="1282" height="788" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="1" />
@@ -942,7 +878,7 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.2405892" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.22919819" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3266564" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.54236007" weight="0.2863706" />
@@ -980,7 +916,8 @@
     <MESSAGE value="Arrays类基本用法" />
     <MESSAGE value="享元模式与接口和抽象类的复习" />
     <MESSAGE value="中介者模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="中介者模式" />
+    <MESSAGE value="线程池" />
+    <option name="LAST_COMMIT_MESSAGE" value="线程池" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1124,20 +1061,8 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Jichu/LinkedHashMapDemo.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Map/LRUCache.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Set/TreeSet.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Set/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Set/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Set/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Set/Main1.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Throwable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-710">
@@ -1149,10 +1074,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="65" column="10" selection-start-line="65" selection-start-column="10" selection-end-line="65" selection-end-column="10" />
-          <folding>
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1693#1694#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1182,24 +1103,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/CountDemo.java" />
     <entry file="file://$USER_HOME$/Desktop/Java并发课程资料/课程资料/SourceCode/Concurrency/src/main/java/com/mmall/concurrency/example/count/CountExample1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/CountDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
           </folding>
         </state>
       </provider>
