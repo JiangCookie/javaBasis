@@ -6,7 +6,7 @@ package Arithmetic.Sort;
  * 2018/10/4 10:13
  */
 public class InsertSort {
-    public static void getInsertSort(int[] arr){
+    public static void iSort(int[] arr){
         for(int i = 2;i < arr.length; i ++){
             if(arr[i] < arr[i - 1]){
                 int temp = arr[i];
@@ -19,16 +19,13 @@ public class InsertSort {
         }
     }
     public static void main(String[] args) {
-        int[] array = {5,9,3,6};
-        System.out.println("直接插入排序前：");
-        for (int arr:array){
-            System.out.print(arr);
-        }
-        System.out.println();
-        getInsertSort(array);
-        System.out.println("直接插入排序后：");
-        for (int arr:array){
-            System.out.print(arr);
+        public static void main(String[] args) {
+            int[] arr = {49,38,65,97,76,13,27};
+            int length = arr.length;
+            iSort(arr);
+            for (int i : arr) {
+                System.out.println(i);
+            }
         }
     }
 }

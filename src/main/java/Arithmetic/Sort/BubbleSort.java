@@ -3,43 +3,35 @@ package Arithmetic.Sort;
 /**
  * 冒泡排序
  * @author JYH
- * 2018/10/4 20:51
+ * 2018/11/20 14:20
  */
 public class BubbleSort {
-    public static void getBubbleSort(int[] arr){
-        int length = arr.length;
-        //外层循环控制排序趟数
-        for(int i = 0;i < length - 1; i ++){
-            //表示本趟冒泡是否发生交换的标志
-            boolean flag = false;
-            //内层循环控制每一趟排序多少次
-            for(int j = length-1;j > i; j --){
-                if(arr[j] < arr[j-1]){
-                    int temp = arr[j-1];
-                    arr[j-1] = arr [j];
-                    arr[j] = temp;
+
+
+    public  static  void bubble(int[] arrays){
+        int length = arrays.length;
+        int temp =0;
+        for (int i = length - 1; i > 0; i--) {
+            for (int j = 0; j < i ; j++) {
+                if(arrays[j] > arrays[j+1]){
+                    int k = arrays[j];
+                    arrays[j] = arrays[j+1];
+                    arrays[j+1] = k;
+                    temp = 1;
                 }
-                flag = true;
             }
-            if(flag == false){
+            if(temp == 0){
                 return;
             }
         }
-
-    }
+      }
 
 
     public static void main(String[] args) {
-        int[] array = {1,5,9,3,6};
-        System.out.println("冒泡排序前：");
-        for (int arr:array){
-            System.out.print(arr);
-        }
-        System.out.println();
-        getBubbleSort(array);
-        System.out.println("冒泡排序后：");
-        for (int arr:array){
-            System.out.print(arr);
+        int[] arrays ={2,5,1,3,4};
+        bubble(arrays);
+        for (int i : arrays) {
+            System.out.println(i);
         }
     }
 }
