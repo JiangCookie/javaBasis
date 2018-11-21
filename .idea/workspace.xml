@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe1425fb-1926-4f3b-a167-11a03d395d63" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/HeapSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arithmetic/Sort/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arithmetic/Sort/BubbleSort.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,15 +72,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="74" />
-          <entry key="java" value="42423" />
-          <entry key="txt" value="115" />
+          <entry key="java" value="42565" />
+          <entry key="txt" value="128" />
           <entry key="xml" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="42423" />
-          <entry key="PLAIN_TEXT" value="189" />
+          <entry key="JAVA" value="42565" />
+          <entry key="PLAIN_TEXT" value="202" />
           <entry key="XML" value="67" />
         </counts>
       </usages-collector>
@@ -97,11 +97,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="76">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -118,17 +118,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="931">
-              <caret line="49" column="5" selection-start-line="42" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+            <state relative-caret-position="214">
+              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="67" column="5" selection-start-line="60" selection-start-column="4" selection-end-line="67" selection-end-column="5" />
+            <state relative-caret-position="95">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -222,11 +222,11 @@
         <option value="$USER_HOME$/Desktop/Java并发课程资料/课程资料/SourceCode/Concurrency/src/main/java/com/mmall/concurrency/example/count/CountExample1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Thread/CountDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/newBubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/SelectSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/InsertSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/HeapSort.java" />
       </list>
     </option>
@@ -712,7 +712,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/File/IdeaProjects/javaBasis/src/main/java/Socket/URLDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542787413173" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542789560340" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -881,7 +881,7 @@
       <workItem from="1540556622267" duration="156000" />
       <workItem from="1540802388437" duration="831000" />
       <workItem from="1542694775277" duration="15707000" />
-      <workItem from="1542770383953" duration="6797000" />
+      <workItem from="1542770383953" duration="8014000" />
     </task>
     <task id="LOCAL-00001" summary="二叉搜索树实现">
       <created>1539779240573</created>
@@ -939,7 +939,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542721785990</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="直接插入排序与堆排序">
+      <created>1542788077266</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542788077266</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -966,7 +973,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="359789000" />
+    <option name="totallyTimeSpent" value="361006000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -979,6 +986,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="1" />
@@ -986,10 +994,10 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.21860817" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.21860817" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3266564" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.54236007" visible="true" weight="0.44992295" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.54236007" visible="true" weight="0.32973805" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1026,7 +1034,8 @@
     <MESSAGE value="中介者模式" />
     <MESSAGE value="线程池" />
     <MESSAGE value="排序算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="排序算法" />
+    <MESSAGE value="直接插入排序与堆排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="直接插入排序与堆排序" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1228,13 +1237,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
-          <caret line="49" column="5" selection-start-line="42" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1249,17 +1251,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="67" column="5" selection-start-line="60" selection-start-column="4" selection-end-line="67" selection-end-column="5" />
+        <state relative-caret-position="214">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="76">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
