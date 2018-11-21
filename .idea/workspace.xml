@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe1425fb-1926-4f3b-a167-11a03d395d63" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/HeapSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/Qsort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arithmetic/Sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Sort/Qsort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arithmetic/Sort/InsertSort.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,7 +20,7 @@
     <session id="-506649374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="39" />
+          <entry key="project.closed" value="40" />
           <entry key="project.open.time.102" value="1" />
           <entry key="project.open.time.113" value="2" />
           <entry key="project.open.time.115" value="1" />
@@ -42,7 +38,7 @@
           <entry key="project.open.time.60" value="1" />
           <entry key="project.open.time.61" value="3" />
           <entry key="project.open.time.62" value="2" />
-          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.63" value="2" />
           <entry key="project.open.time.65" value="1" />
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.69" value="1" />
@@ -53,7 +49,7 @@
           <entry key="project.open.time.79" value="1" />
           <entry key="project.open.time.87" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="41" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -61,14 +57,14 @@
           <entry key="ChannelHandler" value="2" />
           <entry key="JIGSAW/rt" value="1" />
           <entry key="class" value="16" />
-          <entry key="java" value="348" />
+          <entry key="java" value="349" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="16" />
-          <entry key="JAVA" value="348" />
+          <entry key="JAVA" value="349" />
           <entry key="UML" value="3" />
           <entry key="XML" value="3" />
         </counts>
@@ -76,27 +72,36 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="74" />
-          <entry key="java" value="41702" />
-          <entry key="txt" value="108" />
+          <entry key="java" value="42423" />
+          <entry key="txt" value="115" />
           <entry key="xml" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="41702" />
-          <entry key="PLAIN_TEXT" value="182" />
+          <entry key="JAVA" value="42423" />
+          <entry key="PLAIN_TEXT" value="189" />
           <entry key="XML" value="67" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            <state relative-caret-position="285">
+              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/HeapSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -113,8 +118,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="49" column="5" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+            <state relative-caret-position="931">
+              <caret line="49" column="5" selection-start-line="42" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -123,16 +128,16 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="367">
-              <caret line="67" column="5" lean-forward="true" selection-start-line="60" selection-start-column="4" selection-end-line="67" selection-end-column="5" />
+              <caret line="67" column="5" selection-start-line="60" selection-start-column="4" selection-end-line="67" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/InsertSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="114">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -172,7 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Set/BSTSet.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Set/FileOperation.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arrays/ToStringTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Jichu/Interface/Point.java" />
@@ -218,11 +222,12 @@
         <option value="$USER_HOME$/Desktop/Java并发课程资料/课程资料/SourceCode/Concurrency/src/main/java/com/mmall/concurrency/example/count/CountExample1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Thread/CountDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/newBubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/SelectSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/HeapSort.java" />
       </list>
     </option>
   </component>
@@ -244,9 +249,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="518" />
-    <option name="y" value="57" />
-    <option name="width" value="1282" />
+    <option name="x" value="112" />
+    <option name="y" value="42" />
+    <option name="width" value="1382" />
     <option name="height" value="788" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -647,7 +652,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -698,6 +702,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -707,7 +712,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/File/IdeaProjects/javaBasis/src/main/java/Socket/URLDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542721196770" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542787413173" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -742,9 +747,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SelectSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arithmetic.Sort.BubbleSort" />
+  <component name="RunManager" selected="Application.HeapSort">
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arithmetic.Sort.HeapSort" />
       <module name="javaBasis" />
       <extension name="coverage">
         <pattern>
@@ -756,12 +761,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.CountDemo" />
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arithmetic.Sort.InsertSort" />
       <module name="javaBasis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Thread.*" />
+          <option name="PATTERN" value="Arithmetic.Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -809,19 +814,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountDemo" />
-      <item itemvalue="Application.newBubbleSort" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.MergeSort" />
       <item itemvalue="Application.SelectSort" />
+      <item itemvalue="Application.InsertSort" />
+      <item itemvalue="Application.HeapSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.InsertSort" />
         <item itemvalue="Application.SelectSort" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.newBubbleSort" />
-        <item itemvalue="Application.CountDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -875,7 +880,8 @@
       <workItem from="1540532879328" duration="6956000" />
       <workItem from="1540556622267" duration="156000" />
       <workItem from="1540802388437" duration="831000" />
-      <workItem from="1542694775277" duration="15627000" />
+      <workItem from="1542694775277" duration="15707000" />
+      <workItem from="1542770383953" duration="6797000" />
     </task>
     <task id="LOCAL-00001" summary="二叉搜索树实现">
       <created>1539779240573</created>
@@ -926,7 +932,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540556724303</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="排序算法">
+      <created>1542721785990</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542721785990</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -953,7 +966,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="352912000" />
+    <option name="totallyTimeSpent" value="359789000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -966,7 +979,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="1" />
@@ -974,10 +986,10 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.21558245" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.21860817" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3266564" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.54236007" visible="true" weight="0.12326656" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.54236007" visible="true" weight="0.44992295" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1013,7 +1025,8 @@
     <MESSAGE value="享元模式与接口和抽象类的复习" />
     <MESSAGE value="中介者模式" />
     <MESSAGE value="线程池" />
-    <option name="LAST_COMMIT_MESSAGE" value="线程池" />
+    <MESSAGE value="排序算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="排序算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1072,7 +1085,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Jichu/Interface/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Jichu/Interface/CompUtil.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Jichu/Interface/MyComparable.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/Flyweight.java" />
@@ -1208,27 +1220,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/Qsort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="49" column="5" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/Qsort.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/SelectSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -1236,17 +1228,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="67" column="5" lean-forward="true" selection-start-line="60" selection-start-column="4" selection-end-line="67" selection-end-column="5" />
+        <state relative-caret-position="931">
+          <caret line="49" column="5" selection-start-line="42" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="114">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="67" column="5" selection-start-line="60" selection-start-column="4" selection-end-line="67" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
