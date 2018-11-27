@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe1425fb-1926-4f3b-a167-11a03d395d63" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/EnumInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/HungrySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/LazyDoubleCheckSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/ReflectHungrySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/ReflectLazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/SerializableHungrySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/StaticInnerClassSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Thread/DateFormat/DateFormatThreadLocalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Thread/ThreadLocalDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arithmetic/Sort/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/Singleton1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Singleton/Singleton1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Singleton/Singleton1$Unique.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Singleton/Singleton1.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,14 +31,15 @@
     <session id="-506649374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="40" />
+          <entry key="project.closed" value="44" />
           <entry key="project.open.time.102" value="1" />
           <entry key="project.open.time.113" value="2" />
           <entry key="project.open.time.115" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.3" value="6" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.53" value="2" />
@@ -40,16 +52,17 @@
           <entry key="project.open.time.62" value="2" />
           <entry key="project.open.time.63" value="2" />
           <entry key="project.open.time.65" value="1" />
-          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.68" value="2" />
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.70" value="2" />
           <entry key="project.open.time.72" value="1" />
           <entry key="project.open.time.73" value="1" />
           <entry key="project.open.time.78" value="3" />
           <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.83" value="1" />
           <entry key="project.open.time.87" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="42" />
+          <entry key="project.opened" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -57,92 +70,37 @@
           <entry key="ChannelHandler" value="2" />
           <entry key="JIGSAW/rt" value="1" />
           <entry key="class" value="16" />
-          <entry key="java" value="349" />
+          <entry key="java" value="372" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="16" />
-          <entry key="JAVA" value="349" />
+          <entry key="JAVA" value="372" />
           <entry key="UML" value="3" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="74" />
-          <entry key="java" value="42565" />
+          <entry key="dummy" value="76" />
+          <entry key="java" value="44310" />
           <entry key="txt" value="128" />
           <entry key="xml" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="42565" />
-          <entry key="PLAIN_TEXT" value="202" />
+          <entry key="JAVA" value="44310" />
+          <entry key="PLAIN_TEXT" value="204" />
           <entry key="XML" value="67" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/HeapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/SelectSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/InsertSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -177,17 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Set/FileOperation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Arrays/ToStringTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Jichu/Interface/Point.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Jichu/Interface/CompUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Jichu/Interface/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Jichu/Interface/IAdd.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Jichu/Interface/IADDImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Jichu/Interface/MyComparable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Jichu/b.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Jichu/a.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/Flyweight.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/ConcreteFlyweight.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/UnsharedConcreteFlyweight.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/FlyweightFactory.java" />
@@ -228,6 +175,17 @@
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/LazyDoubleCheckSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/StaticInnerClassSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/LazySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/HungrySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/SerializableHungrySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/ReflectHungrySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/ReflectLazySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/EnumInstance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignMode/Singleton/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/ThreadLocalDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/DateFormat/DateFormatThreadLocalDemo.java" />
       </list>
     </option>
   </component>
@@ -249,9 +207,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="112" />
-    <option name="y" value="42" />
-    <option name="width" value="1382" />
+    <option name="x" value="-4" />
+    <option name="y" value="271" />
+    <option name="width" value="1282" />
     <option name="height" value="788" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -651,7 +609,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -683,16 +641,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBasis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBasis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="Sort" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaBasis" type="b2602c69:ProjectViewProjectNode" />
@@ -702,7 +651,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -712,7 +661,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/File/IdeaProjects/javaBasis/src/main/java/Socket/URLDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542789560340" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543232570495" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -728,6 +677,7 @@
       <recent name="IO" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DesignMode.Singleton" />
       <recent name="Arithmetic.Sort" />
       <recent name="Arithmetic.Queue" />
     </key>
@@ -747,7 +697,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HeapSort">
+  <component name="RunManager" selected="Application.ThreadLocalDemo">
     <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arithmetic.Sort.HeapSort" />
       <module name="javaBasis" />
@@ -761,12 +711,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arithmetic.Sort.InsertSort" />
+    <configuration name="LazySingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignMode.Singleton.LazySingleton" />
       <module name="javaBasis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arithmetic.Sort.*" />
+          <option name="PATTERN" value="DesignMode.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -774,12 +724,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arithmetic.Sort.MergeSort" />
+    <configuration name="ReflectHungrySingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignMode.Singleton.ReflectHungrySingleton" />
       <module name="javaBasis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arithmetic.Sort.*" />
+          <option name="PATTERN" value="DesignMode.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -787,12 +737,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arithmetic.Sort.QuickSort" />
+    <configuration name="ReflectLazySingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignMode.Singleton.ReflectLazySingleton" />
       <module name="javaBasis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arithmetic.Sort.*" />
+          <option name="PATTERN" value="DesignMode.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -800,12 +750,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arithmetic.Sort.SelectSort" />
+    <configuration name="ThreadLocalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.ThreadLocalDemo" />
       <module name="javaBasis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arithmetic.Sort.*" />
+          <option name="PATTERN" value="Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -814,19 +764,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.MergeSort" />
-      <item itemvalue="Application.SelectSort" />
-      <item itemvalue="Application.InsertSort" />
       <item itemvalue="Application.HeapSort" />
+      <item itemvalue="Application.LazySingleton" />
+      <item itemvalue="Application.ReflectHungrySingleton" />
+      <item itemvalue="Application.ReflectLazySingleton" />
+      <item itemvalue="Application.ThreadLocalDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadLocalDemo" />
+        <item itemvalue="Application.ReflectLazySingleton" />
+        <item itemvalue="Application.ReflectHungrySingleton" />
+        <item itemvalue="Application.LazySingleton" />
         <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.InsertSort" />
-        <item itemvalue="Application.SelectSort" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -881,7 +831,11 @@
       <workItem from="1540556622267" duration="156000" />
       <workItem from="1540802388437" duration="831000" />
       <workItem from="1542694775277" duration="15707000" />
-      <workItem from="1542770383953" duration="8014000" />
+      <workItem from="1542770383953" duration="17825000" />
+      <workItem from="1542848900975" duration="9608000" />
+      <workItem from="1542936896260" duration="914000" />
+      <workItem from="1543220620566" duration="3361000" />
+      <workItem from="1543279856329" duration="239000" />
     </task>
     <task id="LOCAL-00001" summary="二叉搜索树实现">
       <created>1539779240573</created>
@@ -946,7 +900,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542788077266</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="直接插入排序与堆排序">
+      <created>1542789583273</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542789583273</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -973,7 +934,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="361006000" />
+    <option name="totallyTimeSpent" value="385002000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -986,7 +947,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="1" />
@@ -994,10 +954,10 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.21860817" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.21104388" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3266564" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.54236007" visible="true" weight="0.32973805" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.54236007" weight="0.3266564" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1006,7 +966,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4969743" weight="0.40061632" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.45763993" side_tool="true" weight="0.2881356" />
-      <window_info anchor="bottom" id="调试" order="11" weight="0.2973806" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.2989214" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49924356" weight="0.31895223" />
       <window_info anchor="bottom" id="缩略图" order="13" weight="0.32923076" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1058,6 +1018,36 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DesignMode/Singleton/SerializableHungrySingleton.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/ObjectInputStream.java</url>
+          <line>421</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/ObjectInputStream.java</url>
+          <line>422</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/ObjectInputStream.java</url>
+          <line>1534</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/ObjectInputStream.java</url>
+          <line>1996</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$USER_HOME$/Desktop/Java并发课程资料/课程资料/SourceCode/Concurrency/src/main/java/com/mmall/concurrency/example/count/CountExample1.java</url>
           <line>22</line>
@@ -1094,37 +1084,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Jichu/Interface/CompUtil.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Jichu/Interface/MyComparable.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/Flyweight.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Hashtable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5151">
-          <caret line="209" column="11" selection-start-line="209" selection-start-column="11" selection-end-line="209" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/UnsharedConcreteFlyweight.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/ConcreteFlyweight.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/FlyweightFactory.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="809" lean-forward="true" selection-start-line="809" selection-end-line="809" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Flyweight/Client.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Mediator/Country.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Mediator/UnitedNations.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Mediator/Iraq.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Mediator/USA.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Mediator/UnitedNationsSecurityCouncil.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Mediator/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Jichu/TestStatic.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Static/A.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Static/B.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Reflect/TestFields.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Reflect/TestForName.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Lambda/gg.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Lambda/Test.java" />
@@ -1230,13 +1189,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/Qsort.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/SelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1244,17 +1196,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Singleton/Singleton1.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1265,10 +1211,152 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Sort/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Singleton/StaticInnerClassSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="2174" column="26" selection-start-line="2174" selection-start-column="26" selection-end-line="2174" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Singleton/SerializableHungrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1978" column="19" selection-start-line="1978" selection-start-column="19" selection-end-line="1978" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1003">
+          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/AccessibleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2786">
+          <caret line="129" column="5" lean-forward="true" selection-start-line="129" selection-start-column="5" selection-end-line="129" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Singleton/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Singleton/HungrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Singleton/ReflectLazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Singleton/EnumInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="46" column="58" selection-start-line="46" selection-start-column="58" selection-end-line="46" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Singleton/LazyDoubleCheckSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Singleton/LazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/DateFormat.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/text/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="342" column="24" selection-start-line="342" selection-start-column="24" selection-end-line="342" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Singleton/ReflectHungrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/DateFormat/DateFormatThreadLocalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/ThreadLocalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <element signature="e#138#284#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
