@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe1425fb-1926-4f3b-a167-11a03d395d63" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Factory/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Factory/AnimalFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Factory/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Factory/CatFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Structural/GiftExchangeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Structural/PointGift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Structural/PointsPaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Structural/QualifyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Structural/ShippingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignMode/Structural/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reflect/MyDynamicProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/GcTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java" afterDir="false" />
     </list>
@@ -28,12 +18,13 @@
     <session id="-506649374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="46" />
+          <entry key="project.closed" value="49" />
           <entry key="project.open.time.102" value="1" />
           <entry key="project.open.time.113" value="2" />
           <entry key="project.open.time.115" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.3" value="7" />
@@ -53,13 +44,14 @@
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.70" value="2" />
           <entry key="project.open.time.72" value="1" />
-          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.73" value="2" />
           <entry key="project.open.time.78" value="3" />
           <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.81" value="1" />
           <entry key="project.open.time.83" value="1" />
           <entry key="project.open.time.87" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="48" />
+          <entry key="project.opened" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -68,14 +60,14 @@
           <entry key="JIGSAW/rt" value="1" />
           <entry key="Structural" value="2" />
           <entry key="class" value="16" />
-          <entry key="java" value="384" />
+          <entry key="java" value="385" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="16" />
-          <entry key="JAVA" value="384" />
+          <entry key="JAVA" value="385" />
           <entry key="UML" value="5" />
           <entry key="XML" value="3" />
         </counts>
@@ -83,15 +75,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="76" />
-          <entry key="java" value="45094" />
-          <entry key="txt" value="153" />
+          <entry key="java" value="45095" />
+          <entry key="txt" value="158" />
           <entry key="xml" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="45094" />
-          <entry key="PLAIN_TEXT" value="229" />
+          <entry key="JAVA" value="45095" />
+          <entry key="PLAIN_TEXT" value="234" />
           <entry key="XML" value="67" />
         </counts>
       </usages-collector>
@@ -99,157 +91,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/PointGift.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-              <folding>
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/DesignMode.Structural">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>DesignMode.Structural</OriginalElement>
-              <nodes>
-                <node x="257.99999999999994" y="137.0">DesignMode.Structural.PointsPaymentService</node>
-                <node x="236.70984848484835" y="260.0">DesignMode.Structural.GiftExchangeService</node>
-                <node x="475.99999999999994" y="137.0">DesignMode.Structural.ShippingService</node>
-                <node x="0.0" y="137.0">DesignMode.Structural.QualifyService</node>
-                <node x="470.4901515151514" y="433.0">DesignMode.Structural.Test</node>
-                <node x="538.8333333333333" y="0.0">DesignMode.Structural.PointGift</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="DesignMode.Structural.GiftExchangeService" target="DesignMode.Structural.ShippingService">
-                  <point x="46.05000000000007" y="-61.5" />
-                  <point x="436.2598484848484" y="210.0" />
-                  <point x="510.49999999999994" y="210.0" />
-                  <point x="-69.0" y="26.5" />
-                </edge>
-                <edge source="DesignMode.Structural.GiftExchangeService" target="DesignMode.Structural.QualifyService">
-                  <point x="-138.14999999999986" y="-61.5" />
-                  <point x="252.0598484848485" y="240.0" />
-                  <point x="39.666666666666686" y="240.0" />
-                  <point x="-79.33333333333331" y="26.5" />
-                </edge>
-                <edge source="DesignMode.Structural.ShippingService" target="DesignMode.Structural.PointGift">
-                  <point x="0.0" y="-26.5" />
-                  <point x="579.5" y="117.0" />
-                  <point x="606.7499999999999" y="117.0" />
-                  <point x="-13.583333333333371" y="38.5" />
-                </edge>
-                <edge source="DesignMode.Structural.GiftExchangeService" target="DesignMode.Structural.PointGift">
-                  <point x="138.15000000000003" y="-61.5" />
-                  <point x="528.3598484848484" y="240.0" />
-                  <point x="693.5" y="240.0" />
-                  <point x="693.5" y="117.0" />
-                  <point x="633.9166666666666" y="117.0" />
-                  <point x="13.583333333333371" y="38.5" />
-                </edge>
-                <edge source="DesignMode.Structural.PointsPaymentService" target="DesignMode.Structural.PointGift">
-                  <point x="0.0" y="-26.5" />
-                  <point x="356.99999999999994" y="107.0" />
-                  <point x="579.5833333333333" y="107.0" />
-                  <point x="-40.75" y="38.5" />
-                </edge>
-                <edge source="DesignMode.Structural.Test" target="DesignMode.Structural.PointGift">
-                  <point x="21.875" y="-26.5" />
-                  <point x="579.8651515151514" y="403.0" />
-                  <point x="704.5" y="403.0" />
-                  <point x="704.5" y="107.0" />
-                  <point x="661.0833333333333" y="107.0" />
-                  <point x="40.75" y="38.5" />
-                </edge>
-                <edge source="DesignMode.Structural.GiftExchangeService" target="DesignMode.Structural.PointsPaymentService">
-                  <point x="15.35000000000008" y="-61.5" />
-                  <point x="405.55984848484843" y="240.0" />
-                  <point x="422.99999999999994" y="240.0" />
-                  <point x="66.0" y="26.5" />
-                </edge>
-                <edge source="DesignMode.Structural.Test" target="DesignMode.Structural.GiftExchangeService">
-                  <point x="-21.875" y="-26.5" />
-                  <point x="536.1151515151514" y="403.0" />
-                  <point x="466.95984848484835" y="403.0" />
-                  <point x="76.75" y="61.5" />
-                </edge>
-                <edge source="DesignMode.Structural.QualifyService" target="DesignMode.Structural.PointGift">
-                  <point x="0.0" y="-26.5" />
-                  <point x="119.0" y="97.0" />
-                  <point x="552.4166666666666" y="97.0" />
-                  <point x="-67.91666666666663" y="38.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="365.5" y="243.0" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/QualifyService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Arrays/GcTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/PointsPaymentService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="42" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/ShippingService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/GiftExchangeService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-              <folding>
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#645#646#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -289,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/UnitedNations.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/Country.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/USA.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/Iraq.java" />
@@ -340,6 +185,7 @@
         <option value="$PROJECT_DIR$/src/main/java/DesignMode/Structural/ShippingService.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignMode/Structural/GiftExchangeService.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignMode/Structural/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Arrays/GcTest.java" />
       </list>
     </option>
   </component>
@@ -763,6 +609,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -794,24 +642,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBasis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBasis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
-              <item name="Structural" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBasis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBasis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaBasis" type="b2602c69:ProjectViewProjectNode" />
@@ -821,8 +652,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -832,7 +661,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/File/IdeaProjects/javaBasis/src/main/java/Socket/URLDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543753415336" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544015511500" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -1008,7 +837,10 @@
       <workItem from="1543220620566" duration="3361000" />
       <workItem from="1543279856329" duration="1595000" />
       <workItem from="1543660778168" duration="1906000" />
-      <workItem from="1543720180787" duration="3869000" />
+      <workItem from="1543720180787" duration="5465000" />
+      <workItem from="1544015334896" duration="469000" />
+      <workItem from="1544016782860" duration="671000" />
+      <workItem from="1544611684870" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="二叉搜索树实现">
       <created>1539779240573</created>
@@ -1087,7 +919,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543280161275</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="外观模式">
+      <created>1543753448941</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1543753448942</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1114,7 +953,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="392070000" />
+    <option name="totallyTimeSpent" value="395401000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1135,10 +974,10 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.21785174" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.22692889" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3266564" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.54236007" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.54236007" weight="0.0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1177,7 +1016,8 @@
     <MESSAGE value="排序算法" />
     <MESSAGE value="直接插入排序与堆排序" />
     <MESSAGE value="ThreadLocal场景实例" />
-    <option name="LAST_COMMIT_MESSAGE" value="ThreadLocal场景实例" />
+    <MESSAGE value="外观模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="外观模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1266,7 +1106,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Map/LRUCache.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Set/TreeSet.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Set/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Set/Main1.java" />
@@ -1522,66 +1361,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/QualifyService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/PointsPaymentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/ShippingService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/PointGift.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/GiftExchangeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-          <folding>
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -1659,7 +1438,7 @@
               <point x="-67.91666666666663" y="38.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="365.5" y="243.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="366.0" y="243.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -1670,6 +1449,55 @@
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/PointGift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/QualifyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/PointsPaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/ShippingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignMode/Structural/GiftExchangeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Arrays/GcTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>
