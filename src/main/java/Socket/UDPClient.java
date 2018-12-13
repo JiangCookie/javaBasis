@@ -37,7 +37,7 @@ public class UDPClient {
         socket.send(packet);
 
         /**
-         * 接收服务端接收的数据
+         * 接收服务端的数据
          */
         byte[] data2 = new byte[1024];
         DatagramPacket packet1 = new DatagramPacket(data2, data2.length);

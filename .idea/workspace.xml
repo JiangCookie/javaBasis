@@ -2,9 +2,128 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe1425fb-1926-4f3b-a167-11a03d395d63" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/GcTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arithmetic/Sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Socket/UDPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Socket/UDPClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Socket/UDPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Socket/UDPServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Array/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Array/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/LinkedList/FindOneNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/LinkedList/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/LinkedList/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/MaxHeap/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/MaxHeap/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Queue/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Queue/LoopQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Queue/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Queue/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Set/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Set/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Set/BSTSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Set/FileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Set/Set.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Sort/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Stacks/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Stacks/ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Stacks/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Tree/AVLTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Tree/AVLTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Tree/BSTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arithmetic/Tree/BSTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/ToStringTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/ToStringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Builder/Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Builder/ConcreteBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Builder/Director.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Builder/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/SimpleFactory/ConcreteProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/SimpleFactory/ConcreteProduct1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/SimpleFactory/ConcreteProduct2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/SimpleFactory/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/SimpleFactory/SimpleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/SimpleFactory/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Strategy/ConcreteStrategyA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Strategy/ConcreteStrategyB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Strategy/ConcreteStrategyC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Strategy/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Strategy/Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignMode/Strategy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/File/FileDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/File/FileUtilTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/File/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/File/IOUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/File/NIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/File/NIOClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/File/NIOServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/File/ObjectSeri$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/File/ObjectSeri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/File/RafDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/File/SelectorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/File/WriterDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Generics/Domin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Generics/DynamicArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Generics/NumberPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Generics/Pari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Generics/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JVM/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Jichu/CharAscii.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Jichu/HashMapTotalRandomDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Jichu/HashSetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Jichu/HashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Jichu/LinkedListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Jichu/ReHashCode/People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Jichu/TestHashCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Netty/CustomHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Netty/FirstClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Netty/FirstServerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Netty/NettyServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Netty/NettyServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Netty/NittyClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Netty/NittyClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Netty/ServerInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Reflect/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Reflect/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Reflect/Genericity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Reflect/MethodDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Reflect/Office.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Reflect/PrintClassMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Reflect/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Socket/InetAddressDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Socket/ServerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Socket/TCPClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Socket/TCPServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Socket/UDPClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Socket/UDPServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Socket/URLDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/AtomicIntegerDemo$Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/AtomicIntegerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/AtomicIntegerDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/ConcurrentHashMapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/ConcurrentHashMapIteratorDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/ConcurrentHashMapIteratorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/DeadLockDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/DeadLockDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/DeadLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/EnhancedMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/ExectorTest$MyTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/ExectorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/InterruptExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/ProducerAndConsumer/MyBlockingQueue$Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/ProducerAndConsumer/MyBlockingQueue$Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/ProducerAndConsumer/MyBlockingQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/ReentrantLockCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/ReentrantLockDemo/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/ReentrantLockDemo/ReenterLockCondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/RunTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/SemapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/SynchronizedIneratorDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/SynchronizedIneratorDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/SynchronizedIneratorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/SynchronizedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Thread/VACompare.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,12 +137,13 @@
     <session id="-506649374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="49" />
+          <entry key="project.closed" value="50" />
           <entry key="project.open.time.102" value="1" />
           <entry key="project.open.time.113" value="2" />
           <entry key="project.open.time.115" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.23" value="1" />
@@ -51,7 +171,7 @@
           <entry key="project.open.time.83" value="1" />
           <entry key="project.open.time.87" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="51" />
+          <entry key="project.opened" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -60,14 +180,14 @@
           <entry key="JIGSAW/rt" value="1" />
           <entry key="Structural" value="2" />
           <entry key="class" value="16" />
-          <entry key="java" value="385" />
+          <entry key="java" value="388" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="16" />
-          <entry key="JAVA" value="385" />
+          <entry key="JAVA" value="388" />
           <entry key="UML" value="5" />
           <entry key="XML" value="3" />
         </counts>
@@ -75,15 +195,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="76" />
-          <entry key="java" value="45095" />
-          <entry key="txt" value="158" />
+          <entry key="java" value="45118" />
+          <entry key="txt" value="168" />
           <entry key="xml" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="45095" />
-          <entry key="PLAIN_TEXT" value="234" />
+          <entry key="JAVA" value="45118" />
+          <entry key="PLAIN_TEXT" value="244" />
           <entry key="XML" value="67" />
         </counts>
       </usages-collector>
@@ -91,11 +211,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Arrays/GcTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/net/DatagramPacket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-287">
+              <caret line="276" column="7" selection-start-line="276" selection-start-column="7" selection-end-line="276" selection-end-column="21" />
+              <folding>
+                <element signature="e#2362#2363#0" expanded="true" />
+                <element signature="e#2399#2400#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Socket/UDPClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Socket/UDPServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -135,8 +286,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/Country.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/USA.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/Iraq.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignMode/Mediator/UnitedNationsSecurityCouncil.java" />
@@ -186,6 +335,8 @@
         <option value="$PROJECT_DIR$/src/main/java/DesignMode/Structural/GiftExchangeService.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignMode/Structural/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arrays/GcTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Socket/UDPServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Socket/UDPClient.java" />
       </list>
     </option>
   </component>
@@ -609,8 +760,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -642,7 +791,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="Socket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaBasis" type="b2602c69:ProjectViewProjectNode" />
@@ -652,6 +801,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -661,7 +812,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/File/IdeaProjects/javaBasis/src/main/java/Socket/URLDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544015511500" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544688999860" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -697,26 +848,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.UDPServer">
     <configuration name="MyDynamicProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Reflect.MyDynamicProxy" />
       <module name="javaBasis" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Reflect.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReflectHungrySingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignMode.Singleton.ReflectHungrySingleton" />
-      <module name="javaBasis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DesignMode.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -763,20 +901,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UDPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Socket.UDPServer" />
+      <module name="javaBasis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ReflectHungrySingleton" />
       <item itemvalue="Application.ReflectLazySingleton" />
       <item itemvalue="Application.ThreadLocalDemo" />
       <item itemvalue="Application.MyDynamicProxy" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.UDPServer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UDPServer" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.MyDynamicProxy" />
         <item itemvalue="Application.ThreadLocalDemo" />
         <item itemvalue="Application.ReflectLazySingleton" />
-        <item itemvalue="Application.ReflectHungrySingleton" />
       </list>
     </recent_temporary>
   </component>
@@ -840,7 +991,9 @@
       <workItem from="1543720180787" duration="5465000" />
       <workItem from="1544015334896" duration="469000" />
       <workItem from="1544016782860" duration="671000" />
-      <workItem from="1544611684870" duration="595000" />
+      <workItem from="1544611684870" duration="1951000" />
+      <workItem from="1544614478355" duration="389000" />
+      <workItem from="1544684569564" duration="1778000" />
     </task>
     <task id="LOCAL-00001" summary="二叉搜索树实现">
       <created>1539779240573</created>
@@ -926,7 +1079,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543753448942</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="反射原理">
+      <created>1544612561032</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1544612561033</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -953,7 +1113,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="395401000" />
+    <option name="totallyTimeSpent" value="398924000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -974,7 +1134,7 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.22692889" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.21709532" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3266564" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.54236007" weight="0.0" />
@@ -1017,7 +1177,8 @@
     <MESSAGE value="直接插入排序与堆排序" />
     <MESSAGE value="ThreadLocal场景实例" />
     <MESSAGE value="外观模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="外观模式" />
+    <MESSAGE value="反射原理" />
+    <option name="LAST_COMMIT_MESSAGE" value="反射原理" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1106,9 +1267,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Set/TreeSet.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Set/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetic/Set/Main1.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Throwable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-710">
@@ -1497,7 +1655,32 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Arrays/GcTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/net/DatagramPacket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-287">
+          <caret line="276" column="7" selection-start-line="276" selection-start-column="7" selection-end-line="276" selection-end-column="21" />
+          <folding>
+            <element signature="e#2362#2363#0" expanded="true" />
+            <element signature="e#2399#2400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Socket/UDPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Socket/UDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
         </state>
       </provider>
     </entry>

@@ -23,34 +23,34 @@ public class UDPServer {
         DatagramSocket socket = new DatagramSocket(8800);
 
         /**
-         * 2.创建数据报，用于接收客户端发送的数据
+         * 2.创建数据报
          */
         byte[] data = new byte[1024];
-        DatagramPacket packet = new DatagramPacket(data, data.length);
+        DatagramPacket receivePack = new DatagramPacket(data, data.length);
 
         /**
-         * 3.接收客户端发送的数据
+         * 3.接收客户端的数据
          * receive() 此方法在接收到数据表之前会一直阻塞
          */
         System.out.println("****服务器端已经启动，等待客户端发送数据****");
-        socket.receive(packet);
+        socket.receive(receivePack);
 
         /**
          * 4.读取数据
          */
-        String info = new String(data, 0, packet.getLength());
+        String info = new String(data, 0, receivePack.getLength());
         System.out.println("我是服务器， 客户端说：" + info);
 
         /**
-         * 向客户端响应数据
+         * 5.向客户端响应数据
          */
-        InetAddress address = packet.getAddress();
-        int post = packet.getPort();
+        InetAddress address = receivePack.getAddress();
+        int post = receivePack.getPort();
         byte[] data2 = "欢迎您！".getBytes();
 
-        DatagramPacket packet1 = new DatagramPacket(data2, data2.length, address, post);
+        DatagramPacket responsePack = new DatagramPacket(data2, data2.length, address, post);
 
-        socket.send(packet1);
+        socket.send(responsePack);
 
         socket.close();
     }
